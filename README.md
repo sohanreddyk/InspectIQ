@@ -1,6 +1,6 @@
 # InspectIQ
 
-[![CI](https://github.com/manynames3/inspectiq/actions/workflows/ci.yml/badge.svg)](https://github.com/manynames3/inspectiq/actions/workflows/ci.yml)
+[![CI](https://github.com/sohanreddyk/inspectiq/actions/workflows/ci.yml/badge.svg)](https://github.com//inspectiq/actions/workflows/ci.yml)
 
 Vehicle inspection and imaging workflow for wholesale and offsite operations.
 
